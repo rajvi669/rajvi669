@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajvi669
-- 👀 I’m interested in GenAI and Devlopment 
+- 👀 I’m interested in ML and Analysis 
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on AI project
 - 📫 How to reach me ...
