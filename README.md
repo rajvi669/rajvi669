@@ -11,7 +11,7 @@ MS Business Analytics student at **Kent State University** (4.0 GPA) and former 
 | Project | What it shows | Stack |
 |---|---|---|
 | [Employee-Performance-Prediction](https://github.com/rajvi669/Employee-Performance-Prediction) | Classification tree predicting employee performance; **93.57% test accuracy** (group project, contributor) | R |
-| Employee attrition prediction | Logistic regression on 1,470 employee records; **89.8% test accuracy** | Python, scikit-learn |
+| [Employee attrition prediction](https://github.com/rajvi669/IBM-employee-attrition-prediction-ml) | Logistic regression on 1,470 employee records; **89.8% test accuracy** | Python, scikit-learn |
 | [Quantitative-Management-Modeling](https://github.com/rajvi669/Quantitative-Management-Modeling) | Linear programming models from coursework | Optimization |
 
 ## Skills
