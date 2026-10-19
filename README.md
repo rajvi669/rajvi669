@@ -4,8 +4,10 @@ MS Business Analytics student at **Kent State University** (4.0 GPA) and former 
 
 ## Experience
 - **Graduate Assistant**, Kent State University (Jan 2026 – present)
-- **Data Analyst**, Genpact (Jan 2024 – Sep 2025)
-- **Data Analyst Intern**, Lifetime Brands (Jun – Dec 2023)
+- **Data Analyst**, Genpact (Jan 2024 – Sep 2025), automated ETL workflows with AWS Glue, cutting manual data-processing time by 30%
+- **Data Analyst Intern**, Lifetime Brands (Jun – Sep 2023)
+- **Student Success Leadership**, Kent State University (Aug – Dec 2022)
+- **Research Assistant**, Kent State University (Jun – Aug 2022)
 
 ## Featured projects
 | Project | What it shows | Stack |
@@ -21,12 +23,15 @@ MS Business Analytics student at **Kent State University** (4.0 GPA) and former 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
-- **ML:** regression, classification, decision trees, random forests, clustering, feature engineering, cross-validation
-- **BI & cloud:** Power BI (DAX), Tableau, AWS (S3, Glue, QuickSight)
+- **ML:** regression, classification, decision trees, random forests, KNN, K-Means and hierarchical clustering, PCA, feature engineering, cross-validation
+- **Databases:** MySQL, PostgreSQL, AWS Redshift
+- **BI & cloud:** Power BI (DAX), Tableau, AWS (S3, Glue, QuickSight), Azure
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/sonirajvi18) · sonirajvi18@gmail.com
